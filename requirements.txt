@@ -3,4 +3,4 @@ opencv-python-headless
 numpy
 google-genai
 mediapipe
-camera-input-live
+streamlit-camera-input-live
