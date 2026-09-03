@@ -1,3 +1,16 @@
 .streamlit/secrets.toml
 __pycache__/
 *.pyc
+# Liveness detection datasets
+data/train/
+data/val/
+data/test/
+
+# Trained model weights
+models/*.pth
+models/*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
