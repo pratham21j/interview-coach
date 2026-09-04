@@ -1,13 +1,13 @@
-streamlit
-opencv-python-headless
-numpy
-google-genai
-mediapipe
 
-
-torch
-torchvision
 scikit-learn
 Pillow
 matplotlib
 seaborn
+
+streamlit==1.63.0
+numpy==2.2.6
+opencv-python-headless==4.11.0.86
+google-genai==2.22.0
+mediapipe==0.10.21
+torch==2.8.0
+torchvision==0.23.0
